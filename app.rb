@@ -7,3 +7,4 @@ class App < Sinatra::Base
   get'Hello World' do
     erb :hello
 end
+end
