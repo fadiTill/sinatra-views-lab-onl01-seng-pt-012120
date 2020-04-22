@@ -11,3 +11,4 @@ class App < Sinatra::Base
  get  '/goodbye'
  erb :goodbye
 end
+end
